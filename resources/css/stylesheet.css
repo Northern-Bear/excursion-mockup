@@ -11,7 +11,8 @@ h1 {
     text-align: center;
 }
 
-p {
+p,
+footer p {
     color: aquamarine;
     font-size: 15px;
 }
@@ -28,6 +29,8 @@ article p {
     font-size: 21px;
     color: gray;
 }
+
+
 
 .copyright {
     text-align: right;
