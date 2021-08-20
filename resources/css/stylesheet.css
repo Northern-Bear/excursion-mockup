@@ -28,7 +28,7 @@ article p {
     color: gray;
 }
 
-footer p {
+p.copyright {
     text-align: right;
     color: gray;
 }
